@@ -1,4 +1,4 @@
-# Deploying a Flask-React App to Render
+# Deploying a Flask-React App to Renders
 
 ## Learning Goals
 
